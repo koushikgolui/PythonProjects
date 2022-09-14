@@ -3,7 +3,7 @@ import datetime as dt
 from email.message import EmailMessage
 
 SENDER_EMAIL = "python.my.program@gmail.com"
-PASSWORD = "test1234$$"
+PASSWORD = PASSWORD_VAR
 QUOTES_FILE = "quotes.txt"
 to_mail = "koushik21_golui@yahoo.com"
 
