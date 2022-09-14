@@ -1,0 +1,4 @@
+name,age,gender
+koushik,38,male
+sohini,32,female
+arisha,6,female
