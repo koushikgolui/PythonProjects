@@ -4,9 +4,9 @@ from datetime import datetime, timedelta
 STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc."
 
-AV_API_KEY = "MOXWHU20F3I5F19L"
+AV_API_KEY = ""
 STOCK_URL = "https://www.alphavantage.co/query"
-NEWS_API_KEY = "33abbe7bf28a425cbf4af27391819924"
+NEWS_API_KEY = ""
 NEWS_API_URL = "https://newsapi.org/v2/everything"
 
 stock_parameters = {
