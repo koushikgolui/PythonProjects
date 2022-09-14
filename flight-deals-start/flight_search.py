@@ -6,7 +6,7 @@ class FlightSearch:
     def __init__(self):
         self.KIWI_LOCATIONS_API = "https://tequila-api.kiwi.com/locations/query"
         self.headers = {
-            "apikey": "b7_LRfi0UUA1BezS2pUHAmwnlAf3QKiw"
+            "apikey": ""
         }
 
     def get_iata_codes(self, city):
