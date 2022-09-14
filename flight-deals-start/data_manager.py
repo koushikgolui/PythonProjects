@@ -6,7 +6,7 @@ class DataManager:
     def __init__(self):
         self.SHEETY_API = "https://api.sheety.co/274d7904adbee5f514c9e43b03e93fe1/flightDeals/prices"
         self.AUTHORIZATION_KEY = {
-            "Authorization": "Bearer apowers@007"
+            "Authorization": ""
         }
 
     def read_data_from_sheet(self):
