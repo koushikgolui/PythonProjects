@@ -1,6 +1,6 @@
 import requests
 
-api_key = "66ed6a7567e29e13fc7441e1b7181d09"
+api_key = ""
 
 parameters = {
     "lat": 39.094640,
