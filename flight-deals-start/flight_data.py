@@ -7,7 +7,7 @@ class FlightData:
     def __init__(self):
         self.KIWI_SEARCH_API = "https://tequila-api.kiwi.com/v2/search"
         self.headers = {
-            "apikey": "b7_LRfi0UUA1BezS2pUHAmwnlAf3QKiw"
+            "apikey": ""
         }
         self.today = datetime.today()
 
